@@ -128,6 +128,6 @@ These are some of the basic c programs which are mainly taught during the initia
 
 - Program to copy content from one file to another.
 
-## c. [Reading and Writing Data in File](#reading-and-writing-data-in-file)
+## c. [Reading and Writing Data in File](https://github.com/wolverine-17/Basic-Programs-in-C/blob/main/File-Operations/Read%26Write.c)
 
 - Program to read and write data in a file.
